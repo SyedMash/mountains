@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c0e77463.css",
+    "main.js": "/static/js/main.9cf7d9ca.js",
+    "static/js/453.c388951b.chunk.js": "/static/js/453.c388951b.chunk.js",
+    "static/media/pexels-joyston-judah-331625-933054.jpg": "/static/media/pexels-joyston-judah-331625-933054.38f4c78d9925790b43bb.jpg",
+    "index.html": "/index.html",
+    "main.c0e77463.css.map": "/static/css/main.c0e77463.css.map",
+    "main.9cf7d9ca.js.map": "/static/js/main.9cf7d9ca.js.map",
+    "453.c388951b.chunk.js.map": "/static/js/453.c388951b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e77463.css",
+    "static/js/main.9cf7d9ca.js"
+  ]
+}
