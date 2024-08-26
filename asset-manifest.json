@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mountains/static/css/main.c0e77463.css",
+    "main.js": "/mountains/static/js/main.abfe0c09.js",
+    "static/js/453.c388951b.chunk.js": "/mountains/static/js/453.c388951b.chunk.js",
+    "static/media/pexels-joyston-judah-331625-933054.jpg": "/mountains/static/media/pexels-joyston-judah-331625-933054.38f4c78d9925790b43bb.jpg",
+    "index.html": "/mountains/index.html",
+    "main.c0e77463.css.map": "/mountains/static/css/main.c0e77463.css.map",
+    "main.abfe0c09.js.map": "/mountains/static/js/main.abfe0c09.js.map",
+    "453.c388951b.chunk.js.map": "/mountains/static/js/453.c388951b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0e77463.css",
+    "static/js/main.abfe0c09.js"
+  ]
+}
